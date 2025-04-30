@@ -5,7 +5,7 @@
         "originalPrice": 1000,
         "isOnSale": true,
         "isGift": false,
-        "iconUrl": "https://твой-сервер.ком/иконки/skovorodka.png"
+        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
     },
     {
         "itemName": "Teddy",
@@ -13,7 +13,7 @@
         "originalPrice": 0,
         "isOnSale": false,
         "isGift": true,
-        "iconUrl": "https://твой-сервер.ком/иконки/mishka.png"
+        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
     },
     {
         "itemName": "Remote",
@@ -21,6 +21,6 @@
         "originalPrice": 0,
         "isOnSale": false,
         "isGift": false,
-        "iconUrl": "https://твой-сервер.ком/иконки/pult.png"
+        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
     }
 ]
