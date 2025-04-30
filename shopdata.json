@@ -4,23 +4,20 @@
         "price": 500,
         "originalPrice": 1000,
         "isOnSale": true,
-        "isGift": false,
-        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
+        "isGift": false
     },
     {
         "itemName": "Teddy",
         "price": 0,
         "originalPrice": 0,
         "isOnSale": false,
-        "isGift": true,
-        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
+        "isGift": true
     },
     {
         "itemName": "Remote",
         "price": 300,
         "originalPrice": 0,
         "isOnSale": false,
-        "isGift": false,
-        "iconUrl": "https://github.com/DAbutovDevStd/cpserver/blob/main/icons/skovorodka.png"
+        "isGift": false
     }
 ]
