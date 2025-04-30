@@ -1,0 +1,26 @@
+[
+    {
+        "itemName": "Tun",
+        "price": 500,
+        "originalPrice": 1000,
+        "isOnSale": true,
+        "isGift": false,
+        "iconUrl": "https://твой-сервер.ком/иконки/skovorodka.png"
+    },
+    {
+        "itemName": "Teddy",
+        "price": 0,
+        "originalPrice": 0,
+        "isOnSale": false,
+        "isGift": true,
+        "iconUrl": "https://твой-сервер.ком/иконки/mishka.png"
+    },
+    {
+        "itemName": "Remote",
+        "price": 300,
+        "originalPrice": 0,
+        "isOnSale": false,
+        "isGift": false,
+        "iconUrl": "https://твой-сервер.ком/иконки/pult.png"
+    }
+]
